@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "project-webmeteor": {
+      "hosting": {
+        "webmeteor": [
+          "project-webmeteor"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "project-webmeteor"
+  }
+}
